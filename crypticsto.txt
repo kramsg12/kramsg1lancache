@@ -10,3 +10,4 @@ controllertracker7.crypticstudios.com
 controllertracker8.crypticstudios.com
 controllertracker9.crypticstudios.com
 patchserver.crypticstudios.com
+useast1-public.aws-ubiservices.ubi.com
